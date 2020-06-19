@@ -16,9 +16,6 @@
     "ytdl-core": "^0.20.4"
   },
   "token": "YOUR_TOKEN_HERE",
-  "prefix": "!",
-  "passes": 5,
-  "devDependencies": {
-    "snekfetch": "^4.0.4"
+  "prefix": "!"
   }
 }
