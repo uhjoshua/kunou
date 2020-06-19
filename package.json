@@ -1,0 +1,24 @@
+{
+  "name": "kunou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "ffmpeg-binaries": "^3.2.2",
+    "got": "^9.6.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.4"
+  },
+  "token": "YOUR_TOKEN_HERE",
+  "prefix": "!",
+  "passes": 5,
+  "devDependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
